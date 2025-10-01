@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sarthak Gupta
+# Hi 👋, I'm Samail Ahmad
 
 ---
 
