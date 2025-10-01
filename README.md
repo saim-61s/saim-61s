@@ -1,5 +1,8 @@
 # Hi 👋, I'm Samail Ahmad
 
+![Profile Views](https://komarev.com/ghpvc/?username=saim-61s&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ---
 
 ## 💼 What I Do
@@ -17,9 +20,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=saim-61s&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/saim-61s.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/saim-61s?tab=followers)
-
 </div>
 
 ---
