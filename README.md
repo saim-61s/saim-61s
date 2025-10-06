@@ -14,7 +14,7 @@
 - 👯 Open to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, Next.js, TypeScript**
 - 📫 Reach me: **samailahmad61@gmail.com**
-- ⚡ Fun fact: **Code + Coffee = Magic ✨**
+- ⚡ Fun fact: **Code + Music = Magic ✨**
 
 <br clear="both">
 
